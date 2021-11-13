@@ -13,4 +13,12 @@
     <string name="getting_started">Welcome to Health app</string>
     <string name="description">On Health app you can calculate your BMI which from you can know if you are Underweight, normal weight, overweight,or obesity</string>
     <string name="lifestyle">Take a decision and follow a good lifestyle for you and build a good profile</string>
+    <string name="name">Name</string>
+    <string name="welcome_message">Welcome to Health app, Please Enter these details</string>
+    <string name="age">Age</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="submit">Submit</string>
+    <string name="weight">Enter your weight in KG</string>
+    <string name="height">Enter your height in cm</string>
 </resources>

@@ -8,20 +8,20 @@
     <fragment
         android:id="@+id/nav_home"
         android:name="com.alisamir.healthapp.HomeFragment"
-        android:label="fragment_home"
-        tools:layout="@layout/fragment_home" >
+        android:label="Home"
+        tools:layout="@layout/fragment_home">
 
 
     </fragment>
     <fragment
         android:id="@+id/nav_person"
         android:name="com.alisamir.healthapp.ProfileFragment"
-        android:label="fragment_profile"
+        android:label="Profile"
         tools:layout="@layout/fragment_profile" />
     <fragment
         android:id="@+id/nav_Calculate"
         android:name="com.alisamir.healthapp.BMIFragment"
-        android:label="fragment_b_m_i"
+        android:label="BMI Calculation"
         tools:layout="@layout/fragment_b_m_i" >
 
 
