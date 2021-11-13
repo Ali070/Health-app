@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Health app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="track">Track</string>
+    <string name="your">Your</string>
+    <string name="health">Health</string>
+    <string name="profile">Profile</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="home">Home</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="getting_started">Welcome to Health app</string>
+    <string name="description">On Health app you can calculate your BMI which from you can know if you are Underweight, normal weight, overweight,or obesity</string>
+    <string name="lifestyle">Take a decision and follow a good lifestyle for you and build a good profile</string>
 </resources>
